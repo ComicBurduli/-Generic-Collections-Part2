@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\2024 2025 Generic Collections Part2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A89AAF76-4CF6-4C82-86F0-2D8390FFA0A4}|task 4\\task 4.csproj|c:\\users\\user\\source\\repos\\2024 2025 generic collections part2\\task 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89AAF76-4CF6-4C82-86F0-2D8390FFA0A4}|task 4\\task 4.csproj|solutionrelative:task 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EBBE94-6626-4F99-B97D-6A43620B63A3}|HashSet Exercises\\HashSet Exercises.csproj|c:\\users\\user\\source\\repos\\2024 2025 generic collections part2\\hashset exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EBBE94-6626-4F99-B97D-6A43620B63A3}|HashSet Exercises\\HashSet Exercises.csproj|solutionrelative:hashset exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC8A4A4-8227-4FDC-945F-EE71C0E05A26}|List Exercises\\List Exercises.csproj|c:\\users\\user\\source\\repos\\2024 2025 generic collections part2\\list exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CC8A4A4-8227-4FDC-945F-EE71C0E05A26}|List Exercises\\List Exercises.csproj|solutionrelative:list exercises\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6BD613-A3F3-4128-B73B-7CE014EB6A63}|2024 2025 Generic Collections Part2\\2024 2025 Generic Collections Part2.csproj|c:\\users\\user\\source\\repos\\2024 2025 generic collections part2\\2024 2025 generic collections part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6BD613-A3F3-4128-B73B-7CE014EB6A63}|2024 2025 Generic Collections Part2\\2024 2025 Generic Collections Part2.csproj|solutionrelative:2024 2025 generic collections part2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\2024 2025 Generic Collections Part2\\task 4\\Program.cs",
+              "RelativeDocumentMoniker": "task 4\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\2024 2025 Generic Collections Part2\\task 4\\Program.cs",
+              "RelativeToolTip": "task 4\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:24:20.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\2024 2025 Generic Collections Part2\\HashSet Exercises\\Program.cs",
+              "RelativeDocumentMoniker": "HashSet Exercises\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\2024 2025 Generic Collections Part2\\HashSet Exercises\\Program.cs",
+              "RelativeToolTip": "HashSet Exercises\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:32:03.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\2024 2025 Generic Collections Part2\\List Exercises\\Program.cs",
+              "RelativeDocumentMoniker": "List Exercises\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\2024 2025 Generic Collections Part2\\List Exercises\\Program.cs",
+              "RelativeToolTip": "List Exercises\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:40:27.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\2024 2025 Generic Collections Part2\\2024 2025 Generic Collections Part2\\Program.cs",
+              "RelativeDocumentMoniker": "2024 2025 Generic Collections Part2\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\2024 2025 Generic Collections Part2\\2024 2025 Generic Collections Part2\\Program.cs",
+              "RelativeToolTip": "2024 2025 Generic Collections Part2\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwG8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:05:06.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

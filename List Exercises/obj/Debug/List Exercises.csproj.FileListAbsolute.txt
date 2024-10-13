@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\2024 2025 Generic Collections Part2\List Exercises\bin\Debug\List Exercises.exe.config
+C:\Users\User\source\repos\2024 2025 Generic Collections Part2\List Exercises\bin\Debug\List Exercises.exe
+C:\Users\User\source\repos\2024 2025 Generic Collections Part2\List Exercises\bin\Debug\List Exercises.pdb
+C:\Users\User\source\repos\2024 2025 Generic Collections Part2\List Exercises\obj\Debug\List Exercises.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\2024 2025 Generic Collections Part2\List Exercises\obj\Debug\List Exercises.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2024 2025 Generic Collections Part2\List Exercises\obj\Debug\List Exercises.exe
+C:\Users\User\source\repos\2024 2025 Generic Collections Part2\List Exercises\obj\Debug\List Exercises.pdb

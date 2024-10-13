@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\2024 2025 Generic Collections Part2\2024 2025 Generic Collections Part2\bin\Debug\2024 2025 Generic Collections Part2.exe.config
+C:\Users\User\source\repos\2024 2025 Generic Collections Part2\2024 2025 Generic Collections Part2\bin\Debug\2024 2025 Generic Collections Part2.exe
+C:\Users\User\source\repos\2024 2025 Generic Collections Part2\2024 2025 Generic Collections Part2\bin\Debug\2024 2025 Generic Collections Part2.pdb
+C:\Users\User\source\repos\2024 2025 Generic Collections Part2\2024 2025 Generic Collections Part2\obj\Debug\2024 2025 Generic Collections Part2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\2024 2025 Generic Collections Part2\2024 2025 Generic Collections Part2\obj\Debug\2024 2025 Generic Collections Part2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2024 2025 Generic Collections Part2\2024 2025 Generic Collections Part2\obj\Debug\2024 2025 Generic Collections Part2.exe
+C:\Users\User\source\repos\2024 2025 Generic Collections Part2\2024 2025 Generic Collections Part2\obj\Debug\2024 2025 Generic Collections Part2.pdb
